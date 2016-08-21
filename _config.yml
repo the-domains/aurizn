@@ -1,4 +1,3 @@
-layout_spectrum: 0.1195686908904463
 typography_spectrum: 0.9700377881526947
 color:
   brandStrength: 0.705133989918977
@@ -11,4 +10,6 @@ color:
     - '#BDD684'
     - '#E2F0D6'
     - '#F6FFE0'
+layout_spectrum: 0.1195686908904463
 name: Aurizn
+title: Aurizn
